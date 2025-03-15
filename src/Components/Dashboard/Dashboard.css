@@ -1,0 +1,25 @@
+.dashboard{
+    margin: 10px;
+}
+.form{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin: 20px 10px;
+}
+.filter{
+    display: flex;
+    margin: 20px 10px;
+}
+.progress{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.submit{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 30px;
+}

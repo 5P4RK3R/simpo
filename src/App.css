@@ -1,0 +1,32 @@
+
+
+.App-logo {
+  height: 40px;
+  text-align: center;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #b3f0f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #5b30d6;
+  font-weight: 600;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.MuiFormControl-marginNormal{
+  margin: unset !important;
+}
+
+.MuiTableHead-root{
+  color:'#3f51b5'
+}
